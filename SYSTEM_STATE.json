@@ -1,0 +1,24 @@
+{
+  "last_update": "2026-02-19T00:00:00Z",
+  "current_project": {
+    "name": "Nenhum",
+    "status": "Aguardando ordens",
+    "path": "./",
+    "last_action": "Inicialização do Sistema V3"
+  },
+  "agent_status": {
+    "dante": "Online (Local)",
+    "nero": "Standby (VPS)",
+    "lucio": "Active (QA)"
+  },
+  "token_safety": {
+    "current_mode": "SIMPLE",
+    "consecutive_errors": 0,
+    "estimated_tpm": 0
+  },
+  "vps_config": {
+    "connection": "verified",
+    "last_sync": null
+  },
+  "user_interrupt": false
+}
